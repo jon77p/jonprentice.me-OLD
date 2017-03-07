@@ -1,0 +1,35 @@
+/* Custom Page CSS */
+
+#wrapper > .container {
+  padding: 60px 15px 0;
+}
+.container .credit {
+  margin: 20px 0;
+}
+
+/* Navbar */
+#navbar {
+  width: 100%;
+  top: -60px;
+}
+#navbar.affix-top {
+  position: fixed;
+  top: 0px;
+  -webkit-transition: all 0.8s ease;
+}
+
+#navbar.affix {
+  position: fixed;
+  top: 0;
+  bottom: 60;
+  -webkit-transition: all 1s ease;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+code {
+  font-size: 80%;
+}
