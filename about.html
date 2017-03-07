@@ -50,8 +50,8 @@ body { padding-top: 70px; }
     </nav>
     <div class="container">
 <h1>About</h1>
-<h2>musician | arranger</h2>
-<h2>hardware and systems management | programmer</h2>
+<h2><span class="fadeIn">musician</span> | <span class="fadeIn">arranger</span></h2>
+<h2><span class="fadeIn">hardware and systems management</span> | <span class="fadeIn">programmer</span></h2>
 
 	</div>
 	
@@ -66,5 +66,11 @@ body { padding-top: 70px; }
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+	<script>
+		$(".fadeIn").hide(0).each(function (i, el) {
+		    const $el = $(el);
+			$el.delay(500 + 3000 * i).fadeIn(3000);
+		});
+	</script>
   </body>
 </html>
