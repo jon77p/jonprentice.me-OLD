@@ -1,3 +1,6 @@
+		<div class="img-container"></div>
+        <!-- <div class="blur"></div> -->
+      </div>
 	</div>
 	
 	<!-- Site Footer -->
@@ -14,7 +17,7 @@
 	<script>
 		$(".fadeIn").hide(0).each(function (i, el) {
 		    const $el = $(el);
-			$el.delay(500 + 3000 * i).fadeIn(3000);
+			$el.delay(400 + 400 * i).fadeIn(400);
 		});
 	</script>
   </body>
