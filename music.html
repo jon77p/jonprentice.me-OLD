@@ -8,9 +8,10 @@
 	<title>Music</title>
 
 	<!-- Stylesheets -->
-	<link href="css/styles.css" rel="stylesheet">
+	<link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
 	<link href="css/sticky_footer.css" rel="stylesheet">
+	<link href="css/bootstrap-social.css" rel="stylesheet">
 
     <style>
 body { padding-top: 70px; }
@@ -39,38 +40,42 @@ body { padding-top: 70px; }
 
         <!-- Nav Links for Toggling -->
 		<div class="collapse navbar-collapse" id="web-navbar">
-		  <ul class="nav navbar-nav">
-			<li class="active"><a href="index.html">Home</a></li>
-			<li><a href="music.html">Music</a></li>
-			<li><a href="programming.html">Programming</a></li>
-			<li><a href="about.html">About</a></li>
+		  <ul class="nav navbar-nav navbar-right">
+			<li class="<php? echo $active;?>"><a href="index.html">Home</a></li>
+			<li class="<php? echo $active;?>"><a href="music.html">Music</a></li>
+			<li class="<php? echo $active;?>"><a href="programming.html">Programming</a></li>
+			<li class="<php? echo $active;?>"><a href="about.html">About</a></li>
 		  </ul>
 		</div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
     <div class="container">
+		<div class="content">
 
-<h2><a href="https://musescore.com/jon77p/scores/1993176" target="_blank">Tosha Baritosha</a> by Marsh Dondurma - arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
+<h2 class="text-center"><a href="https://musescore.com/jon77p/scores/1993176" target="_blank">Tosha Baritosha</a> by Marsh Dondurma - arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="100%" height="394" src="https://musescore.com/jon77p/scores/1993176/embed" frameborder="0" allowfullscreen></iframe>
 </div>
 <hr>
-<h2><a href="https://musescore.com/jon77p/scores/2488131" target="_blank">Coco (Live)</a> by The Lucky Chops - arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
+<h2 class="text-center"><a href="https://musescore.com/jon77p/scores/2488131" target="_blank">Coco (Live)</a> by The Lucky Chops - arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="100%" height="394" src="https://musescore.com/jon77p/scores/2488131/embed" frameborder="0" allowfullscreen></iframe>
 </div>
 <hr>
-<h2><a href="https://musescore.com/jon77p/scores/2857401" target="_blank">Buyo</a> by The Lucky Chops - arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
+<h2 class="text-center"><a href="https://musescore.com/jon77p/scores/2857401" target="_blank">Buyo</a> by The Lucky Chops - arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="100%" height="394" src="https://musescore.com/jon77p/scores/2857401/embed" frameborder="0" allowfullscreen></iframe>
 </div>
 <hr>
-<h2><a href="https://musescore.com/jon77p/scores/3485946" target="_blank">Mardi Gras in New Orleans</a> by Olympia Brass Band -  arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
+<h2 class="text-center"><a href="https://musescore.com/jon77p/scores/3485946" target="_blank">Mardi Gras in New Orleans</a> by Olympia Brass Band -  arranged by <a href="https://musescore.com/jon77p" target="_blank">Jon Prentice</a></h2>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="100%" height="394" src="https://musescore.com/jon77p/scores/3485946/embed" frameborder="0" allowfullscreen></iframe>
 </div>
 <hr>
 
+		<div class="img-container"></div>
+        <!-- <div class="blur"></div> -->
+      </div>
 	</div>
 	
 	<!-- Site Footer -->
@@ -87,7 +92,7 @@ body { padding-top: 70px; }
 	<script>
 		$(".fadeIn").hide(0).each(function (i, el) {
 		    const $el = $(el);
-			$el.delay(500 + 3000 * i).fadeIn(3000);
+			$el.delay(400 + 400 * i).fadeIn(400);
 		});
 	</script>
   </body>

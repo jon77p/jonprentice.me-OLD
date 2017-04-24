@@ -8,9 +8,10 @@
 	<title>jonprentice</title>
 
 	<!-- Stylesheets -->
-	<link href="css/styles.css" rel="stylesheet">
+	<link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
 	<link href="css/sticky_footer.css" rel="stylesheet">
+	<link href="css/bootstrap-social.css" rel="stylesheet">
 
     <style>
 body { padding-top: 70px; }
@@ -39,19 +40,23 @@ body { padding-top: 70px; }
 
         <!-- Nav Links for Toggling -->
 		<div class="collapse navbar-collapse" id="web-navbar">
-		  <ul class="nav navbar-nav">
-			<li class="active"><a href="index.html">Home</a></li>
-			<li><a href="music.html">Music</a></li>
-			<li><a href="programming.html">Programming</a></li>
-			<li><a href="about.html">About</a></li>
+		  <ul class="nav navbar-nav navbar-right">
+			<li class="<php? echo $active;?>"><a href="index.html">Home</a></li>
+			<li class="<php? echo $active;?>"><a href="music.html">Music</a></li>
+			<li class="<php? echo $active;?>"><a href="programming.html">Programming</a></li>
+			<li class="<php? echo $active;?>"><a href="about.html">About</a></li>
 		  </ul>
 		</div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
     <div class="container">
-<h1>Programming</h1>
-<h2>Site Source Code: <a href="https://github.com/jon77p/jonprentice.me" target="_blank">Github</a></h2>
+		<div class="content">
+<h1 class="text-center">Programming</h1>
+<h2 class="text-center">Site Source Code: <a href="https://github.com/jon77p/jonprentice.me" target="_blank">Github</a></h2>
 
+		<div class="img-container"></div>
+        <!-- <div class="blur"></div> -->
+      </div>
 	</div>
 	
 	<!-- Site Footer -->
@@ -68,7 +73,7 @@ body { padding-top: 70px; }
 	<script>
 		$(".fadeIn").hide(0).each(function (i, el) {
 		    const $el = $(el);
-			$el.delay(500 + 3000 * i).fadeIn(3000);
+			$el.delay(400 + 400 * i).fadeIn(400);
 		});
 	</script>
   </body>
