@@ -41,11 +41,11 @@ body { padding-top: 70px; }
 
         <!-- Nav Links for Toggling -->
 		<div class="collapse navbar-collapse" id="web-navbar">
-		  <ul class="nav navbar-nav">
-			<li class="active"><a href="index.<?php echo $extension;?>">Home</a></li>
-			<li><a href="music.<?php echo $extension;?>">Music</a></li>
-			<li><a href="programming.<?php echo $extension;?>">Programming</a></li>
-			<li><a href="about.<?php echo $extension;?>">About</a></li>
+		  <ul class="nav navbar-nav navbar-right">
+			<li class="<php? echo $active;?>"><a href="index.<?php echo $extension;?>">Home</a></li>
+			<li class="<php? echo $active;?>"><a href="music.<?php echo $extension;?>">Music</a></li>
+			<li class="<php? echo $active;?>"><a href="programming.<?php echo $extension;?>">Programming</a></li>
+			<li class="<php? echo $active;?>"><a href="about.<?php echo $extension;?>">About</a></li>
 		  </ul>
 		</div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

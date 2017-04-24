@@ -1,4 +1,4 @@
-<?php $title = 'About'; include("template/header.php");?>
+<?php $title = 'About'; $active = 'active'; include("template/header.php");?>
 <h1 class="text-center">About</h1>
 
 <div class="row-fluid">
