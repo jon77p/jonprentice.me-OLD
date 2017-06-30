@@ -4,7 +4,7 @@
 <div class="row-fluid">
 <div class="col-md-offset-2 text-center">
 <h3 class="row"><span class="fadeIn col-md-4">musician</span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4">arranger</span></h3>
-<h3 class="row"><span class="fadeIn col-md-4">photographer</span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4">programmer</span></h3>
+<h3 class="row"><span class="fadeIn col-md-4"><a href="http://photos.jonprentice.me" target="__blank">photographer</a></span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4">programmer</span></h3>
 <h3 class="row"><span class="fadeIn col-md-4">hardware design</span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4">OS design</span></h3>
 </div>
 </div>
