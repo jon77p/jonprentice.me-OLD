@@ -10,6 +10,18 @@
 </div>
 
 <div class="row-fluid">
+  <h1 class="text-center">Contributions</h1>
+  <div class="col-md-offset-0" social-buttons>
+	<div class="row">
+	  <div class="col-md-3" style="display: inline;">	
+        <a class="fadeIn btn btn-block btn-social btn-youtube" href="https://www.youtube.com/channel/UClGIwaJTWD-3SFn5IoQjZbA" target="__blank">
+          <i class="fa fa-youtube"></i> SMCHS IT Department YouTube Channel</a>
+      </div>
+	</div>
+  </div>
+</div>
+
+<div class="row-fluid">
   <div class="text-center"><h2 class="heading">Social Media</h2></div>
     <div class="col-md-offset-0 social-buttons">
 	  <div class="row">
