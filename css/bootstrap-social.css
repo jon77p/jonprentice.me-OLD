@@ -74,6 +74,14 @@
 .btn-instagram:active,.btn-instagram.active,.open>.dropdown-toggle.btn-instagram{background-image:none}
 .btn-instagram.disabled:hover,.btn-instagram[disabled]:hover,fieldset[disabled] .btn-instagram:hover,.btn-instagram.disabled:focus,.btn-instagram[disabled]:focus,fieldset[disabled] .btn-instagram:focus,.btn-instagram.disabled.focus,.btn-instagram[disabled].focus,fieldset[disabled] .btn-instagram.focus{background-color:#3f729b;border-color:rgba(0,0,0,0.2)}
 .btn-instagram .badge{color:#3f729b;background-color:#fff}
+
+.btn-kit{color:#fff;background-color:#3DC795;border-color:rgba(0,0,0,0.2)}.btn-kit:focus,.btn-kit.focus{color:#fff;background-color:#3DC795;border-color:rgba(0,0,0,0.2)}
+.btn-kit:hover{color:#fff;background-color:#3DC795;border-color:rgba(0,0,0,0.2)}
+.btn-kit:active,.btn-kit.active,.open>.dropdown-toggle.btn-kit{color:#fff;background-color:#3DC795;border-color:rgba(0,0,0,0.2)}.btn-kit:active:hover,.btn-kit.active:hover,.open>.dropdown-toggle.btn-kit:hover,.btn-kit:active:focus,.btn-kit.active:focus,.open>.dropdown-toggle.btn-kit:focus,.btn-kit:active.focus,.btn-kit.active.focus,.open>.dropdown-toggle.btn-kit.focus{color:#fff;background-color:#3DC795;border-color:rgba(0,0,0,0.2)}
+.btn-kit:active,.btn-kit.active,.open>.dropdown-toggle.btn-kit{background-image:none}
+.btn-kit.disabled:hover,.btn-kit[disabled]:hover,fieldset[disabled] .btn-kit:hover,.btn-kit.disabled:focus,.btn-kit[disabled]:focus,fieldset[disabled] .btn-kit:focus,.btn-kit.disabled.focus,.btn-kit[disabled].focus,fieldset[disabled] .btn-kit.focus{background-color:#3DC795;border-color:rgba(0,0,0,0.2)}
+.btn-kit .badge{color:#3f729b;background-color:#fff}
+
 .btn-linkedin{color:#fff;background-color:#007bb6;border-color:rgba(0,0,0,0.2)}.btn-linkedin:focus,.btn-linkedin.focus{color:#fff;background-color:#005983;border-color:rgba(0,0,0,0.2)}
 .btn-linkedin:hover{color:#fff;background-color:#005983;border-color:rgba(0,0,0,0.2)}
 .btn-linkedin:active,.btn-linkedin.active,.open>.dropdown-toggle.btn-linkedin{color:#fff;background-color:#005983;border-color:rgba(0,0,0,0.2)}.btn-linkedin:active:hover,.btn-linkedin.active:hover,.open>.dropdown-toggle.btn-linkedin:hover,.btn-linkedin:active:focus,.btn-linkedin.active:focus,.open>.dropdown-toggle.btn-linkedin:focus,.btn-linkedin:active.focus,.btn-linkedin.active.focus,.open>.dropdown-toggle.btn-linkedin.focus{color:#fff;background-color:#00405f;border-color:rgba(0,0,0,0.2)}
