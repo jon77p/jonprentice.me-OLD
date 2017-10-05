@@ -5,7 +5,7 @@
 	<div class="col-md-offset-2 text-center">
 		<h3 class="row"><span class="fadeIn col-md-4"><a href="" target="__blank">musician</a></span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4"><a href="https://musescore.com/jon77p" target="__blank">arranger</a></span></h3>
 		<h3 class="row"><span class="fadeIn col-md-4"><a href="https://photos.jonprentice.me" target="__blank">photographer</a></span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4"><a href="https://github.com/jon77p" target="__blank">programmer</a></span></h3>
-		<h3 class="row"><span class="fadeIn col-md-4"><span>hardware design</span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4">OS design</span></h3>
+		<h3 class="row"><span class="fadeIn col-md-4">hardware design</span> <span class="col-md-2"> |</span> <span class="fadeIn col-md-4">OS design</span></h3>
 	</div>
 </div>
 
