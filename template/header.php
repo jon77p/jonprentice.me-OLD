@@ -43,8 +43,8 @@ body { padding-top: 70px; }
 		<div class="collapse navbar-collapse" id="web-navbar">
 		  <ul class="nav navbar-nav navbar-right">
 			<li class="<php? echo $active;?>"><a href="index.<?php echo $extension;?>">Home</a></li>
-			<li class="<php? echo $active;?>"><a href="https://blog.jonprentice.me">Blog</a></li>
-			<li class="<php? echo $active;?>"><a href="https://photos.jonprentice.me">Photos</a></li>
+			<li class="<php? echo $active;?>"><a href="https://blog.jonprentice.me" target="__blank">Blog</a></li>
+			<li class="<php? echo $active;?>"><a href="https://photos.jonprentice.me" target="__blank">Photos</a></li>
 			<li class="<php? echo $active;?>"><a href="music.<?php echo $extension;?>">Music</a></li>
 			<li class="<php? echo $active;?>"><a href="programming.<?php echo $extension;?>">Programming</a></li>
 			<li class="<php? echo $active;?>"><a href="about.<?php echo $extension;?>">About</a></li>
