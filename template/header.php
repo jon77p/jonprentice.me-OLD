@@ -11,6 +11,7 @@
 	<!-- Stylesheets -->
 	<link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
 	<link href="css/bootstrap-flat.css" rel="stylesheet">
+	<link href="css/bootstrap-flat-extras.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
 	<link href="css/sticky_footer.css" rel="stylesheet">
 	<link href="css/bootstrap-social.css" rel="stylesheet">
