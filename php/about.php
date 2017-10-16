@@ -60,23 +60,24 @@
 				</a>
 		  </div>
 		  <div class="col-md-3" style="display: inline;">
-		  	<div class="container-fluid">
-					<a class="fadeIn btn btn-block btn-social btn-musescore" href="https://musescore.com/jon77p" target="__blank">
-					  <i class="fa fa-music"></i> MuseScore
-					</a>
-					<a class="fadeIn btn btn-block btn-social btn-github" href="https://github.com/jon77p" target="__blank">
-					  <i class="fa fa-github"></i> GitHub
-					</a>
-					<a class="fadeIn btn btn-block btn-social btn-kit" href="https://kit.com/jon77p" target="__blank">
-					  <i class="fa fa-columns"></i> Kit
-					</a>
-				</div>
+				<a class="fadeIn btn btn-block btn-social btn-musescore" href="https://musescore.com/jon77p" target="__blank">
+				  <i class="fa fa-music"></i> MuseScore
+				</a>
+				<a class="fadeIn btn btn-block btn-social btn-github" href="https://github.com/jon77p" target="__blank">
+				  <i class="fa fa-github"></i> GitHub
+				</a>
+				<a class="fadeIn btn btn-block btn-social btn-kit" href="https://kit.com/jon77p" target="__blank">
+				  <i class="fa fa-columns"></i> Kit
+				</a>
 		  </div>
 	  </div>
 	</div>
-<div class="text-center"><h2>Need support? <a href="mailto:jon77p+support@gmail.com">Contact me</a>.</h2></div>
+<!--<div class="text-center"><h2>Need support? <a href="mailto:jon77p+support@gmail.com">Contact me</a>.</h2></div>-->
 
 </div>
 </div>
+
+<div class="text-center"><h2>Need support? <a href="mailto:jon77p+support@gmail.com">Contact me</a>.</h2></div>
+
 
 <?php include("template/footer.php");?>
