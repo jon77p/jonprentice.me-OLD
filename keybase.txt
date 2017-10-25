@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jon77p
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jonprentice.me
+  * I am jon77p (https://keybase.io/jon77p) on keybase.
+  * I have a public key ASC0bsbODh0IEJ0muhkC4Gj1VWoEXFGdT_UlRgaFeJ6fIwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120aeefa90b50d969cfbb0c598edc7c526285b9b774d98df78c206d88348732fe830a",
+      "host": "keybase.io",
+      "kid": "0120b46ec6ce0e1d08109d26ba1902e068f5556a045c519d4ff525460685789e9f230a",
+      "uid": "d99919399f2db06b4b756f380abfee19",
+      "username": "jon77p"
+    },
+    "merkle_root": {
+      "ctime": 1508909362,
+      "hash": "c22782eb27b26a0d1fd164546640b4087f6c37ed4bf8d223c53b77eea26b31222239836d062d57c7b6d384c6407b18413530f7d8cbf8de2dec6e2748aadeaa5c",
+      "hash_meta": "e3781464d386ec939444fa7081860238577165cf05763441dd77df001c2dcd05",
+      "seqno": 1626174
+    },
+    "service": {
+      "hostname": "jonprentice.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508909374,
+  "expire_in": 504576000,
+  "prev": "613e6514b1cfae565b9efaddaf58aecaaaa9e9461f789c9b99e70f6d6e92597f",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtG7Gzg4dCBCdJroZAuBo9VVqBFxRnU/1JUYGhXienyMKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYWVlZmE5MGI1MGQ5NjljZmJiMGM1OThlZGM3YzUyNjI4NWI5Yjc3NGQ5OGRmNzhjMjA2ZDg4MzQ4NzMyZmU4MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjQ2ZWM2Y2UwZTFkMDgxMDlkMjZiYTE5MDJlMDY4ZjU1NTZhMDQ1YzUxOWQ0ZmY1MjU0NjA2ODU3ODllOWYyMzBhIiwidWlkIjoiZDk5OTE5Mzk5ZjJkYjA2YjRiNzU2ZjM4MGFiZmVlMTkiLCJ1c2VybmFtZSI6Impvbjc3cCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwODkwOTM2MiwiaGFzaCI6ImMyMjc4MmViMjdiMjZhMGQxZmQxNjQ1NDY2NDBiNDA4N2Y2YzM3ZWQ0YmY4ZDIyM2M1M2I3N2VlYTI2YjMxMjIyMjM5ODM2ZDA2MmQ1N2M3YjZkMzg0YzY0MDdiMTg0MTM1MzBmN2Q4Y2JmOGRlMmRlYzZlMjc0OGFhZGVhYTVjIiwiaGFzaF9tZXRhIjoiZTM3ODE0NjRkMzg2ZWM5Mzk0NDRmYTcwODE4NjAyMzg1NzcxNjVjZjA1NzYzNDQxZGQ3N2RmMDAxYzJkY2QwNSIsInNlcW5vIjoxNjI2MTc0fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImpvbnByZW50aWNlLm1lIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDg5MDkzNzQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNjEzZTY1MTRiMWNmYWU1NjViOWVmYWRkYWY1OGFlY2FhYWE5ZTk0NjFmNzg5YzliOTllNzBmNmQ2ZTkyNTk3ZiIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDmChSj1ftozpiCqFDLojjw4o3u1x+aiIB/QIEVFoe3GEQ/hYZ4jrzh2RPJxG0/qc8NqkJ41yDQoiJP+fYV4xcLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQglwX1c7Ft2YnjX0Y2y9eRAqiUYKPvQRIQOrswkIzdkP+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jon77p
+
+==================================================================
