@@ -50,7 +50,7 @@ body { padding-top: 70px; }
 			<li class="<php? echo $active;?>"><a href="music.<?php echo $extension;?>">Music</a></li>
 			<li class="<php? echo $active;?>"><a href="programming.<?php echo $extension;?>">Programming</a></li>
 			<li class="<php? echo $active;?>"><a href="about.<?php echo $extension;?>">About</a></li>
-			<li class="<php? echo $active;?>"><a href="help.<?php echo $extension;?>">Help</a></li>
+			<li class="<php? echo $active;?>"><a href="help.<?php echo $extension;?>">Help <span class="label label-danger">New</span></a></li>
 		  </ul>
 		</div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
