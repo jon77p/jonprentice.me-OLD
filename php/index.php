@@ -1,6 +1,6 @@
 <?php $title = 'jonprentice'; $active = 'active'; include("template/header.php");?>
 
-<div class="jumbotron" style="background-image: url('https://d31v04zdn5vmni.cloudfront.net/blog/wp-content/uploads/2012/02/featured-image-snippets-1-690x362.png'); background-size: cover;">
+<div class="jumbotron" style="background-image: url('https:d31v04zdn5vmni.cloudfront.net/blog/wp-content/uploads/2012/02/featured-image-snippets-1-690x362.png'); background-size: cover;">
 
 	<div class ="container">
 	
@@ -10,5 +10,7 @@
 	</div>
 
 </div>
+
+<h2 class="text-center">Live Twitter Feed</h2>
 
 <?php include("template/footer.php");?>

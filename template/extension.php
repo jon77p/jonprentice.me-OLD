@@ -1,1 +1,1 @@
-<?php $extension = "html";?>
+<?php $extension ="php";?>
